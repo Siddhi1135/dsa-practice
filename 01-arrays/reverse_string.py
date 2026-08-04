@@ -1,3 +1,4 @@
+# Reverse string
 word = "wanderly"
 reversed_word = ""
 
@@ -7,7 +8,7 @@ for letter in word:
 print("Reversed:", reversed_word)
 
 
-#palindrome check
+# Palindrome check
 word = "level"
 reversed_word = ""
 
