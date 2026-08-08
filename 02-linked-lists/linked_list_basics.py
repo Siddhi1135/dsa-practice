@@ -17,3 +17,4 @@ current = first
 while current is not None:
     print(current.value)
     current = current.next
+    
